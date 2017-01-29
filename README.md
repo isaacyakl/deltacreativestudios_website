@@ -1,3 +1,3 @@
 # Delta Creative Studios' Website
 
-A bootstrap practice website.
+This web development company site is built using Bootstrap V3.
